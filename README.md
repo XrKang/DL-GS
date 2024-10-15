@@ -11,6 +11,7 @@
 * Other Dependencies: BasicSR 1.3.4.9, OpenCV 4.7.0, Scikit-image, CuPy, Open3d, Pillow, Imageio, COLMAP. 
 * Compile CUDA:
   ```
+  cd ./Code
   pip install submodules/diff-gaussian-rasterization-confidence
   pip install submodules/simple-knn
   ```
