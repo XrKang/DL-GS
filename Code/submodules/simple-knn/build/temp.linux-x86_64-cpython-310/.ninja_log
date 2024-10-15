@@ -1,0 +1,7 @@
+# ninja log v5
+0	13105	1702393408893235549	/data/DLNeRF/baselines/FSGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	81c16a851450ec92
+0	31173	1702393426961336528	/data/DLNeRF/baselines/FSGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	ecfefc8f470970f9
+0	81533	1702393477317621330	/data/DLNeRF/baselines/FSGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	514b3edcaf2846de
+56	5255	1704424944229683734	/data/DLNeRF/ours/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	55a248a958e2a495
+56	9520	1704424948493726500	/data/DLNeRF/ours/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	736de698522e3c92
+57	29132	1704424968101921241	/data/DLNeRF/ours/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	cfcf567f3f6bd314

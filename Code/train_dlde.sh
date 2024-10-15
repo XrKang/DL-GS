@@ -1,0 +1,11 @@
+python train_dlde.py \
+      --train_render_dir '/data/DLGS/ours/output/DL_Syn_0011Wide_10view/train/ours_10000/renders' \
+      --sr_wide_dir '/data/DLGS/NeRFStereo/DualCameraSynthetic/0011/wide_trainTest_10_SR/images' \
+      --lr_wide_dir '/data/DLGS/NeRFStereo/DualCameraSynthetic/0011/wide_trainTest_10/images'\
+      --tele_align_dir '/data/DLGS/NeRFStereo/DualCameraSynthetic/0011/wide_trainTest_10_SR/tele_align' \
+      --test_render_dir '/data/DLGS/ours/output/DL_Syn_0011Wide_10view/test/ours_10000/renders' \
+      --tele_align_dir '/data/DLGS/NeRFStereo/DualCameraSynthetic/0011/wide_trainTest_10_SR/tele_align' \
+      --gt_dir '/data/DLGS/NeRFStereo/DualCameraSynthetic/0011/wide_trainTest_10_SR/HR_GT' \
+      --model_name '0011_10' \
+      --source_path /data/DLGS/NeRFStereo/DualCameraSynthetic/0011/wide_trainTest_10_SR \
+      --model_path /data/DLGS/ours/output/DL_Syn_0011Wide_10view

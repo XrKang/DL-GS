@@ -1,0 +1,4 @@
+# ninja log v5
+0	6427	1703591070745705351	/data/DLNeRF/ours/submodules/simple-knn/build/temp.linux-x86_64-3.10/simple_knn.o	642b381dc5e58110
+0	13274	1703591077585730493	/data/DLNeRF/ours/submodules/simple-knn/build/temp.linux-x86_64-3.10/ext.o	f50ac0a449146ba8
+0	30094	1703591094409792366	/data/DLNeRF/ours/submodules/simple-knn/build/temp.linux-x86_64-3.10/spatial.o	8b253e0713035e5d
